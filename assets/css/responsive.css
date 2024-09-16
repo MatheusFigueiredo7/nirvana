@@ -1,0 +1,53 @@
+@media screen and (max-width: 1366px) {
+    #welcome-hero {
+        height: 98rem;
+        margin-bottom: 10rem;
+    }
+
+    .contact {
+        padding: 8.375rem 0rem 2.0rem;
+    }
+
+    .image-container {
+        height: 50rem; /* Ajuste a altura do contêiner conforme necessário */
+        width: 30rem; /* Ajuste a largura do contêiner conforme necessário */
+        left: 15rem;
+        
+    }
+
+    .image-container img {
+        width: 100%;
+        height: auto; /* Ajusta a altura da imagem para manter a proporção */
+        object-fit: cover; /* Preenche o contêiner mantendo a proporção */
+        object-position: center top; /* Ajusta a posição da imagem para o topo */
+    }
+
+    /* Ajustes gerais para elementos */
+    nav.navbar.bootsnav ul.nav > li > a {
+        padding: 20px 10px; /* Ajusta o padding dos itens de navegação */
+    }
+
+
+    .timeline-content span > i, 
+    .experience-time span > i {
+        left: -10%; /* Ajuste o posicionamento dos ícones */
+    }
+
+    .isotope .item {
+        max-width: 300px; /* Ajuste o tamanho máximo dos itens de filtro */
+    }
+
+    .single-profile {
+        max-width: 300px; /* Ajuste o tamanho máximo do perfil */
+        margin: 20px auto; /* Ajuste a margem para centralizar */
+    }
+
+    .single-horizontal-timeline {
+        max-width: 300px; /* Ajuste o tamanho máximo da linha do tempo horizontal */
+        margin: 20px auto; /* Ajuste a margem para centralizar */
+    }
+
+    .subscribe-title h2 {
+        font-size: 22px; /* Ajuste o tamanho da fonte para o título da inscrição */
+    }
+}
