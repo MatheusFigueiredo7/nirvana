@@ -148,7 +148,7 @@ To run the site locally, follow the steps below:
 Clone the repository using Git command:
 
 ```bash
-git clone https://github.com/mtalmeida7/nirvana.git
+git clone https://github.com/MatheusAlmeida06/nirvana.git
 ```
 
 ### 2. Navigate to the Project Directory 📂
